@@ -1,4 +1,4 @@
 # Apnacollegedemo
 this is my first repository
 <br>
-Author-Kartik
+Author-Kartik Pardikar
